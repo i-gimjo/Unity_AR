@@ -13,4 +13,4 @@ ___
 
 이미지를 보여주게 되면 3d 오브젝트가 나타나며 경기, 제주도를 터치하면 해당 위치로 이동.
 
-![image](https://user-images.githubusercontent.com/119905015/206470806-e2660263-5720-44e1-9c75-9958a51ecf34.png)
+![KakaoTalk_20221129_134657256](https://user-images.githubusercontent.com/119905015/206471653-0454ddc9-6186-46a1-8153-bd79e6702a64.gif)
