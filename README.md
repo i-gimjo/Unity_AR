@@ -2,6 +2,7 @@
 
 ##### Vuforia 설치 #####
 https://library.vuforia.com/getting-started/vuforia-engine-package-unity
+
 해당 사이트로 이동해 sdk를 다운받아 unity에서 import하고 라이센스 키를 등록하여주면 사용 가능.
 
 ![image](https://user-images.githubusercontent.com/119905015/206470806-e2660263-5720-44e1-9c75-9958a51ecf34.png)
